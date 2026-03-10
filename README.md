@@ -100,24 +100,27 @@ Structured GitHub repository with all project files
 📁 Project Structure
 
 Customer_Shopping_Behavior_Analysis
+
 │
 ├── Business Problem Document.pdf
-
+|
 ├── Customer Shopping Behavior Analysis.pdf
-
+|
 ├── Customer_Shopping_Behavior_Analysis.ipynb
-
+|
 ├── customer_behavior_sql_queries.sql
-
+|
 ├── customer_shopping_behavior.csv
-
+|
 ├── LICENSE
-
+|
 └── README.md
 
 👨‍💻 Author
 
 Smitkumar Velani
+
 Master’s Student – Data Science
+
 Northeastern University, Boston
 
