@@ -76,16 +76,12 @@ Express shipping customers often show higher purchasing activity
 
 Boost Subscriptions
 Promote benefits that encourage customers to subscribe.
-
 Customer Loyalty Programs
 Reward repeat buyers to move them into the loyal segment.
-
 Review Discount Strategy
 Balance discounts with profitability.
-
 Product Positioning
 Promote top-rated and best-selling products in campaigns.
-
 Targeted Marketing
 Focus marketing efforts on high-revenue age groups and express-shipping users.
 
